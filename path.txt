@@ -1,0 +1,10 @@
+navbar
+carusal (4-image)
+what we do (4/5-icon)
+who we are (image)
+creative works (squre grp image)
+what customers say (vector image)
+number
+request a call back/form
+world map with position
+footer (information)
